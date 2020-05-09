@@ -1,0 +1,7 @@
+[Core]
+Name=Reddit
+module=reddit
+
+[Documentation]
+Author=baited
+Version=0.1
