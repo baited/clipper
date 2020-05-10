@@ -1,4 +1,6 @@
 from clipper.plugin import SitePlugin
 
 class Reddit(SitePlugin):
-    name = 'Reddit'
+    def __init__(self):
+        # super().init()
+        pass
